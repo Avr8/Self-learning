@@ -4,3 +4,4 @@ GCP Direct Connect
 Since we are preparing for CKA - Write article on each k8s component
   a) ETCD
   b) Kube api server (Further how does intra master node communication takes place)
+  c) Converting Cloudwatch metrics to OTEL and Prometheus
